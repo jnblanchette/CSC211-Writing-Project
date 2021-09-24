@@ -1,0 +1,25 @@
+CSC 211
+Assignment 0
+Jarrod Blanchette
+Topics: Invention of integrated circuits, ARPANET, UNIX operating system 
+
+Integrated Circuits
+	Prior to the first hybrid integrated circuit, which was created prior to the first monolithic integrated circuit demonstrated in 1960, there were ideas forming around the invention starting in 1949 when Werner Jacobi patented the first known integrated transistor amplifiers in 1949. A transistor, which is vital to integrated circuits, is a semiconductor device used to amplify or switch electronic signals and electrical power. This paves the way for us to give instructions to computers using binary system communication. More patents were created in the 1950s but it wasn’t until 1958 and 1959 that big step forwards were achieved. 
+First, Jack Kilby invented a hybrid integrated circuit which is different from a monolithic integrated circuit in that a hybrid Integrated circuit is fabricated by inter-connecting a number of components a number of components on a substrate aka a printed circuit board instead of monolithic integrated circuits are fabricated in a series of steps entirely on a single wafer which is then diced into chips.  In layman this means that the hybrid is installed with components as a whole and more hard-wire interconnected than monolithic IC’s, which are plugged into the motherboard more individually while still communicating with other components. 
+Shortly after Kurt Lehovec discovered p-n junction isolation, which is the method used to electrically isolate electronic components, such as transistors, on an integrated circuit by surrounding the components with reverse biased p-n junctions. Without this ability to isolate components via a insulating counter electrical charge, the components wouldn’t be able to live in the same work environment (motherboard for example) without electrical issues.
+Lastly, Robert Noyce, after these advances, was able to invent the first monolithic IC chip using improved insulation of components based on planar process, which is a process that builds individual components of a transistor and then connects the transistors together. A key component of the planar process that is also important for the length of the integrated circuits life span in way of surface passivation, which is a chemical coating technique used to make components less susceptible to environmental effects. Since the invention of this first monolithic IC, there have been many advances throughout the years, exponentially increasing their efficiency. But in the annals of history, Kilby and Noyce both share most of the credit for the invention of integrated circuits. 
+
+
+
+
+ARPANET
+	ARPANET aka the Advanced Research Projects Agency network was the first wide-area packet-switched network with distributed control and one of the first networks to implement the TCP/IP protocol suite. The former being a method of organizing data into packets prior to being sent from a source in a network to the desired receiver of said packet. Picture a file that is compressed into a header, which gives surface information to the contents of the packet, and a payload that contains the more detailed information that will later on be extracted by application software. An example in this that is pertinent to our class is sending in our MC challenges. Main_1.cpp was the header of our packet. The actual coding using the C++ language is extracted via our chosen program (VSCode, CS50IDE, etc) to show the meat of the information that we are sending from one computer to the next. 
+
+Will work on more tomorrow.  
+	
+
+  https://en.wikipedia.org/wiki/Invention_of_the_integrated_circuit
+https://en.wikipedia.org/wiki/ARPANET
+https://en.wikipedia.org/wiki/Packet_switching
+
+(He said in Piazza that wiki is a credible source, which I found very surprising. But the information is succinct and easily navigable for other articles so I don’t see a reason to spend more time finding other sources when it is so readily on wiki). 
